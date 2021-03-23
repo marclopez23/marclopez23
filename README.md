@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## MY articles
+## My articles
 [![Marc López Medium](https://github-readme-medium.vercel.app/?username=marclopez23)](https://medium.com/@marclopez23)
